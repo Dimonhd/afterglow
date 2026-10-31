@@ -1,0 +1,187 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north"
+      },
+      "apply": {
+        "model": "afterglow:block/socket"
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb"
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit"
+      }
+    },
+    {
+      "when": {
+        "facing": "east"
+      },
+      "apply": {
+        "model": "afterglow:block/socket",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south"
+      },
+      "apply": {
+        "model": "afterglow:block/socket",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west"
+      },
+      "apply": {
+        "model": "afterglow:block/socket",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "up"
+      },
+      "apply": {
+        "model": "afterglow:block/socket",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "up",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "up",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit",
+        "x": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "down"
+      },
+      "apply": {
+        "model": "afterglow:block/socket",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "down",
+        "has_bulb": "true",
+        "level": "0"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "down",
+        "has_bulb": "true",
+        "level": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15"
+      },
+      "apply": {
+        "model": "afterglow:block/socket_bulb_lit",
+        "x": 90
+      }
+    }
+  ]
+}

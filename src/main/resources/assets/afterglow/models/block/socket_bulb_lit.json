@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "body": "afterglow:block/socket_body",
+    "thread": "afterglow:block/socket_thread",
+    "metal": "afterglow:block/metal",
+    "glass": "afterglow:block/bulb_glass",
+    "glass_lit": "afterglow:block/bulb_glass_lit",
+    "particle": "afterglow:block/socket_body"
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        11,
+        5
+      ],
+      "to": [
+        11,
+        16,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#glass_lit"
+        },
+        "east": {
+          "texture": "#glass_lit"
+        },
+        "south": {
+          "texture": "#glass_lit"
+        },
+        "west": {
+          "texture": "#glass_lit"
+        },
+        "up": {
+          "texture": "#glass_lit"
+        },
+        "down": {
+          "texture": "#glass_lit"
+        }
+      }
+    }
+  ]
+}

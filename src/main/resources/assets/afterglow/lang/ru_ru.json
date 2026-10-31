@@ -1,0 +1,10 @@
+{
+  "itemGroup.afterglow": "Afterglow: Электричество",
+  "block.afterglow.wire": "Провод",
+  "block.afterglow.source": "Источник питания",
+  "block.afterglow.switch": "Выключатель",
+  "block.afterglow.socket": "Цоколь",
+  "item.afterglow.lamp": "Лампа накаливания",
+  "tooltip.afterglow.lamp": "%1$s В, %2$s Вт (R = %3$s Ом)",
+  "message.afterglow.source": "Напряжение: %1$s В | Ток: %2$s А | Мощность: %3$s Вт"
+}

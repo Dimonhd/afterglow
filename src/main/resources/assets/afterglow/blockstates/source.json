@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "afterglow:block/source"
+    },
+    "facing=east": {
+      "model": "afterglow:block/source",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "afterglow:block/source",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "afterglow:block/source",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "afterglow:block/source",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "afterglow:block/source",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemGroup.afterglow": "Afterglow: Electricity",
+  "block.afterglow.wire": "Wire",
+  "block.afterglow.source": "Power Supply",
+  "block.afterglow.switch": "Switch",
+  "block.afterglow.socket": "Lamp Socket",
+  "item.afterglow.lamp": "Incandescent Lamp",
+  "tooltip.afterglow.lamp": "%1$s V, %2$s W (R = %3$s Ohm)",
+  "message.afterglow.source": "Voltage: %1$s V | Current: %2$s A | Power: %3$s W"
+}

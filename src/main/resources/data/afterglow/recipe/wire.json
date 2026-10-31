@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "CCC"
+  ],
+  "result": {
+    "id": "afterglow:wire",
+    "count": 6
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "closed=false,facing=north": {
+      "model": "afterglow:block/switch_open"
+    },
+    "closed=true,facing=north": {
+      "model": "afterglow:block/switch_closed"
+    },
+    "closed=false,facing=east": {
+      "model": "afterglow:block/switch_open",
+      "y": 90
+    },
+    "closed=true,facing=east": {
+      "model": "afterglow:block/switch_closed",
+      "y": 90
+    },
+    "closed=false,facing=south": {
+      "model": "afterglow:block/switch_open",
+      "y": 180
+    },
+    "closed=true,facing=south": {
+      "model": "afterglow:block/switch_closed",
+      "y": 180
+    },
+    "closed=false,facing=west": {
+      "model": "afterglow:block/switch_open",
+      "y": 270
+    },
+    "closed=true,facing=west": {
+      "model": "afterglow:block/switch_closed",
+      "y": 270
+    },
+    "closed=false,facing=up": {
+      "model": "afterglow:block/switch_open",
+      "x": 270
+    },
+    "closed=true,facing=up": {
+      "model": "afterglow:block/switch_closed",
+      "x": 270
+    },
+    "closed=false,facing=down": {
+      "model": "afterglow:block/switch_open",
+      "x": 90
+    },
+    "closed=true,facing=down": {
+      "model": "afterglow:block/switch_closed",
+      "x": 90
+    }
+  }
+}
